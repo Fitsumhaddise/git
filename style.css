@@ -3,11 +3,22 @@
 }
 h1, p{
     text-align: center;
-    color: blue;
+    color: black;
 }
 b{
-    color: yellow;
     font-size: 29px;
+}
+#b1{
+    color: orange;
+}
+#b2{
+    color: blue;
+}
+#b3{
+    color: yellow;
+}
+#b4{
+    color: purple;
 }
 .html {
     width: 5%;
@@ -72,7 +83,11 @@ b{
     color: black;
     text-align: left;
 }
-.contact p, h1{
+.contact p {
+    color: black;
+    text-align: left;
+}
+.contact h1{
     color: black;
     text-align: left;
 }
