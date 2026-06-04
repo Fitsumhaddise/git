@@ -5,9 +5,6 @@ h1, p{
     text-align: center;
     color: blue;
 }
-body{
-    background-color: black;
-}
 b{
     color: yellow;
     font-size: 29px;
@@ -29,7 +26,53 @@ b{
     height: 7%;
 }
 #html {
+    background-color: orange;
+    padding: 19px;
+    border-radius: 17px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+#html p{
     text-align: left;
+    color: black;
+}
+#css {
     background-color: blue;
-    color: red;
+    padding: 19px;
+    margin-top: 17px;
+    border-radius: 17px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+#css p{
+    text-align: left;
+    color: black;
+}
+#js {
+    background-color: yellow;
+    padding: 19px;
+    margin-top: 17px;
+    border-radius: 17px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+#js p{
+    color: black;
+    text-align: left;
+}
+#php{
+    background-color: purple;
+    padding: 19px;
+    margin-top: 17px;
+    border-radius: 17px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+#php p{
+    color: black;
+    text-align: left;
+}
+.contact p, h1{
+    color: black;
+    text-align: left;
 }
